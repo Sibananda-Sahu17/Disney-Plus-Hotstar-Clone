@@ -40,7 +40,8 @@ export default Header
 
 const Nav = styled.nav`
     height: 4rem;
-    background: #090b10;
+    background: #131927;
+    // overflow-x: hidden;
     color: white;
     display: flex;
     align-items: center;
