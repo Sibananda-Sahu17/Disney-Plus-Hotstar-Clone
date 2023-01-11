@@ -48,7 +48,7 @@ const Nav = styled.nav`
     padding: 0 0.4rem;
     `
     const Logo = styled.img`
-    width: 5rem;
+    width: 7rem;
     padding: 0 1rem;
     `
 const NavMenu = styled.div`
