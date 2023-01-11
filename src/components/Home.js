@@ -2,12 +2,14 @@ import React from 'react'
 import styled from 'styled-components'
 import ImgSlider from './ImgSlider'
 import Viewers from './Viewers'
+import Movies from './Movies'
 
 function Home() {
   return (
     <Container>
         <ImgSlider />
         <Viewers />
+        <Movies />
     </Container>
   )
 }
@@ -21,7 +23,7 @@ const Container = styled.div`
   // position: relative;
 
   // &:before{
-  //   background: url("/images/home-background.png") center center / cover no-repeat fixed;
+    // background: url("/images/home-background.png") center center / cover no-repeat fixed;
   //   contenr: ""
   //   position: absolute;
   //   top: 0;
