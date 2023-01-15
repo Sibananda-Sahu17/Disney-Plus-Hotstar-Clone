@@ -24,7 +24,7 @@ const Container = styled.div`
 
   // &:before{
     // background: url("/images/home-background.png") center center / cover no-repeat fixed;
-  //   contenr: ""
+  //   content: "";
   //   position: absolute;
   //   top: 0;
   //   left: 0;
