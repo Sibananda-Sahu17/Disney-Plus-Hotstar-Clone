@@ -7,7 +7,7 @@ function Movies() {
         <h4>Recommended for you</h4>
         <Content>
             <Wrap>
-                <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2s2Q1yS_j0jT7Y_GHVRMP7gDCMk-dSbA5Aw&usqp=CAU' />
+                <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcPQlbstwfGgTF51Q3HN2OSEhPFLC0l0XSYg&usqp=CAU' />
             </Wrap>
             <Wrap>
                 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2s2Q1yS_j0jT7Y_GHVRMP7gDCMk-dSbA5Aw&usqp=CAU' />
@@ -49,9 +49,9 @@ const Wrap = styled.div`
     }
 
     &:hover{
+        transform: scale(1.05);
         box-shadow: rgb(0 0 0 / 80%) 0px 40px 58px -16px, 
         rgb(0 0 0 / 72%) 0px 30px 22px -10px; 
-        transform: scale(1.05);
         border-color: rgba(249, 249, 249, 0.8);
     }
 `
