@@ -7,17 +7,30 @@ function Movies() {
         <h4>Recommended for you</h4>
         <Content>
             <Wrap>
-                <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcPQlbstwfGgTF51Q3HN2OSEhPFLC0l0XSYg&usqp=CAU' />
+                <img src='https://c4.wallpaperflare.com/wallpaper/507/830/385/captain-america-captain-america-civil-war-captain-america-the-first-avenger-captain-america-the-winter-soldier-movies-hd-wallpaper-preview.jpg' />
             </Wrap>
             <Wrap>
-                <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2s2Q1yS_j0jT7Y_GHVRMP7gDCMk-dSbA5Aw&usqp=CAU' />
+                <img src='https://c4.wallpaperflare.com/wallpaper/579/921/292/amazing-spider-man-new-marvel-s-the-amazing-spider-man-movie-poster-wallpaper-preview.jpg' />
             </Wrap>
             <Wrap>
-                <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2s2Q1yS_j0jT7Y_GHVRMP7gDCMk-dSbA5Aw&usqp=CAU' />
+                <img src='https://c4.wallpaperflare.com/wallpaper/736/411/582/star-wars-star-wars-the-rise-of-skywalker-movie-poster-poster-movie-characters-hd-wallpaper-preview.jpg' />
             </Wrap>
             <Wrap>
-                <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2s2Q1yS_j0jT7Y_GHVRMP7gDCMk-dSbA5Aw&usqp=CAU' />
+                <img src='https://c4.wallpaperflare.com/wallpaper/156/167/750/movies-thor-chris-hemsworth-black-background-wallpaper-preview.jpg' />
             </Wrap>
+            <Wrap>
+                <img src='https://c4.wallpaperflare.com/wallpaper/690/285/233/5bd08042c789d-wallpaper-preview.jpg' />
+            </Wrap>
+            <Wrap>
+                <img src='https://c4.wallpaperflare.com/wallpaper/232/717/114/venom-movie-venom-superheroes-hd-wallpaper-preview.jpg' />
+            </Wrap>
+            <Wrap>
+                <img src='https://c4.wallpaperflare.com/wallpaper/502/419/818/the-dark-knight-batman-movies-wallpaper-preview.jpg' />
+            </Wrap>
+            <Wrap>
+                <img src='https://c4.wallpaperflare.com/wallpaper/58/729/130/digital-art-black-background-minimalism-skull-wallpaper-preview.jpg' />
+            </Wrap>
+        
         </Content>
     </Container>
   )
